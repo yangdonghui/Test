@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/l003usingservice" />
             <option value="$PROJECT_DIR$/l004usingbc" />
             <option value="$PROJECT_DIR$/l005readcontact" />
+            <option value="$PROJECT_DIR$/l006intents" />
           </set>
         </option>
         <option name="myModules">
@@ -22,6 +23,7 @@
             <option value="$PROJECT_DIR$/l003usingservice" />
             <option value="$PROJECT_DIR$/l004usingbc" />
             <option value="$PROJECT_DIR$/l005readcontact" />
+            <option value="$PROJECT_DIR$/l006intents" />
           </set>
         </option>
       </GradleProjectSettings>
