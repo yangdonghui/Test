@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/l004usingbc/l004usingbc.iml" filepath="$PROJECT_DIR$/l004usingbc/l004usingbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/l005readcontact/l005readcontact.iml" filepath="$PROJECT_DIR$/l005readcontact/l005readcontact.iml" />
       <module fileurl="file://$PROJECT_DIR$/l006intents/l006intents.iml" filepath="$PROJECT_DIR$/l006intents/l006intents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l007usinglistview/l007usinglistview.iml" filepath="$PROJECT_DIR$/l007usinglistview/l007usinglistview.iml" />
     </modules>
   </component>
 </project>
